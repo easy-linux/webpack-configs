@@ -14,10 +14,13 @@ https://github.com/easy-linux/node-install
 
 Глобальная установка webpack:
 
+    npm install -g webpack
     npm install -g webpack-cli
 
-Локальная установка webpack для какого-то проекта тривиальна. В каталоге проекта, созданного при помощи npm init выполняем команду:
+Локальная установка webpack для какого-то проекта тривиальна. В каталоге проекта, созданного при помощи npm init выполняем команды:
 
+    
+    npm install webpack
     npm install webpack-cli
 
 Теперь находясь в каталоге проекта выполните команду:
