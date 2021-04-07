@@ -20,8 +20,8 @@ https://github.com/easy-linux/node-install
 Локальная установка webpack для какого-то проекта тривиальна. В каталоге проекта, созданного при помощи npm init выполняем команды:
 
     
-    npm install webpack
-    npm install webpack-cli
+    npm install webpack -D
+    npm install webpack-cli -D
 
 Теперь находясь в каталоге проекта выполните команду:
 
