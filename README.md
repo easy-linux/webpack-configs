@@ -58,4 +58,12 @@ https://github.com/easy-linux/node-install
 Обратите внимание в нашем конфиге используется опция mode. Она может принимать два значения development или production для создания тестовой и промышленной версии соответственно. 
 
 ## Ссылки
-Простой проект с минимальным webpack конфигом.
+Простой проект с минимальным webpack конфигом
+https://github.com/easy-linux/webpack-configs/tree/main/examples/example1
+
+Настройка горячей перезагрузки
+https://github.com/easy-linux/webpack-configs/tree/main/examples/example2
+
+Настройка загрузки css/scss файлов и файлов изображений
+https://github.com/easy-linux/webpack-configs/tree/main/examples/example3
+
