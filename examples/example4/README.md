@@ -1,5 +1,5 @@
-# Example 3 for webpack 5
-# Настройка лоадеров для работы с изображениями и стилями
+# Example 4 for webpack 5
+# Настройка гибкой конфигурации, а также генерации index.html файла
 
 ## Как пользоваться
 
@@ -16,7 +16,7 @@
 
 Видео с объяснением как это все работает здесь:
 
-https://youtu.be/3B-NGZmMe-Y
+https://youtu.be/fnUqyWyG5kk
 
 
 Полезные видео по настройке webpack:
@@ -25,8 +25,7 @@ https://youtu.be/3B-NGZmMe-Y
 
 Настройка горячей перезагрузки - https://youtu.be/oOpzkF2nU0s
 
-Модульный принцип конфигурации проекта - https://youtu.be/fnUqyWyG5kk
-
+Настройка сборки проекта с подгрузкой файлов css/scss/изображений - https://youtu.be/3B-NGZmMe-Y
 
 
 

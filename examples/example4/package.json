@@ -1,0 +1,29 @@
+{
+  "name": "webpack_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --hot --open",
+    "build": "cross-env BUILD_TYPE=dev webpack -c webpack.config.js",
+    "build-prod": "cross-env BUILD_TYPE=prod webpack -c webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.4.6",
+    "node-sass": "^7.0.1",
+    "sass": "^1.46.0",
+    "sass-loader": "^12.4.0",
+    "terser-webpack-plugin": "^5.3.1",
+    "webpack": "^5.64.3",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.5.0"
+  },
+  "dependencies": {}
+}
