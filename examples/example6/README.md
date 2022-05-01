@@ -1,4 +1,4 @@
-# Example 5 for webpack 5
+# Example 6 for webpack 5
 # Настройка автоматической генерации favicon и добавление во все html файлы
 
 ## Как пользоваться
@@ -14,16 +14,16 @@
    npm run start
 ```
 
-Видео с объяснением как это все работает здесь:
+## vВидео с объяснением как это все работает здесь:
 
 https://youtu.be/aMzCDR_MHF0
 
-Плагин и документация к нему:
+## Плагин и документация к нему:
 
 https://www.npmjs.com/package/favicons-webpack-plugin
 
 
-Полезные видео по настройке webpack:
+## Полезные видео по настройке webpack:
 
 Минимальная конфигурация - https://youtu.be/unEl3Hezwpw
 
