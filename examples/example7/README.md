@@ -1,5 +1,5 @@
-# Example 5 for webpack 5
-# Настройка автоматической генерации favicon и добавление во все html файлы
+# Example 7 for webpack 5
+# Добавляем шрифты
 
 ## Как пользоваться
 
@@ -14,16 +14,16 @@
    npm run start
 ```
 
-Видео с объяснением как это все работает здесь:
+## Видео с объяснением как это все работает здесь:
 
-https://youtu.be/aMzCDR_MHF0
+https://youtu.be/wIEauCguZGI
 
-Плагин и документация к нему:
+## Сайт где можно найти нужные шрифты:
 
-https://www.npmjs.com/package/favicons-webpack-plugin
+https://fonts.google.com/
 
 
-Полезные видео по настройке webpack:
+## Полезные видео по настройке webpack:
 
 Минимальная конфигурация - https://youtu.be/unEl3Hezwpw
 
