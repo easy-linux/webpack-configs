@@ -1,0 +1,60 @@
+/*!*******************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles/articles.scss ***!
+  \*******************************************************************************************************************/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page-header {
+  text-align: center;
+}
+
+.image-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.articles-header {
+  margin: 20px;
+  text-align: center;
+}
+
+.articles {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.articles .article-link {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f00;
+  border-radius: 10px;
+  cursor: pointer;
+  border: 1px solid #00f;
+  color: #fff;
+  font-weight: bold;
+  text-decoration: none;
+}
+.articles .article-link:hover {
+  background-color: #fff;
+  border: 1px solid #f00;
+  color: #f00;
+}
+
+.article {
+  margin: 20px;
+  padding: 10px;
+  max-width: 300px;
+}
+.article .article-top {
+  padding: 10px;
+  background-color: rgb(4, 40, 243);
+  color: #fff;
+  text-align: center;
+}
+.article .article-text {
+  padding: 10px;
+}
