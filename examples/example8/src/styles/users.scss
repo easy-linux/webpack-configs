@@ -1,0 +1,27 @@
+@import 'common.scss';
+
+.users-block {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    padding:  10px;
+
+    .user-block{
+        padding: 10px;
+        margin: 20px;
+        min-width: 250px;
+        background-color: #ddd;
+
+        .user-header{
+          background-color: blue;
+          color: white;
+          padding: 10px;
+        }
+
+        .user-content{
+            padding: 10px;
+        }
+    }
+}

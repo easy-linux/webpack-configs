@@ -1,0 +1,50 @@
+@import 'common.scss';
+
+.articles-header {
+    margin: 20px;
+    text-align: center;
+}
+
+.articles {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .article-link{
+        margin: 20px;
+        padding: 20px;
+        background-color: #f00;
+        border-radius: 10px;
+        cursor: pointer;
+        border: 1px solid #00f;
+        color: #fff;
+        font-weight: bold;
+        text-decoration: none;
+
+        &:hover {
+            background-color: #fff;
+            border: 1px solid #f00;
+            color: #f00;
+            
+        }
+    }
+}
+
+.article {
+
+    margin: 20px;
+    padding: 10px;
+    max-width: 300px;
+
+    .article-top {
+        padding: 10px;
+        background-color: rgb(4, 40, 243);
+        color: #fff;
+        text-align: center;
+    }
+
+    .article-text {
+        padding: 10px;
+    }
+}

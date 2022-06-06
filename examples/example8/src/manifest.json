@@ -1,0 +1,7 @@
+{
+  "name": "Webpack example 8",
+  "short_name": "Webpack8",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "fullscreen"
+  }
